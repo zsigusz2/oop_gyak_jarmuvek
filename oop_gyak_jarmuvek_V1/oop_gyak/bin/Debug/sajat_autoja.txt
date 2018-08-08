@@ -1,0 +1,10 @@
+Üdvözlöm! Alább a saját autójának adatait látja:
+ 
+Márka: 
+Salyát tömeg: 0
+Össztömeg: 0
+Gyártás éve: 1900
+Érvényes forgalmi engedély: nincs
+Ccm3: 0
+Szállítható személyek száma: 1
+Ajtók száma: 3
